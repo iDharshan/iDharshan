@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/iDharshan/iDharshan/assets/91682299/36bb119d-8ea2-4cf4-9f36-a514cf0eac9c)
 <h1 align="center">I'm Dharshan</h1>
 <h3 align="center">Aspiring ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJkOGE2OTgwOTU5ODcwYjdiMTg5MWI2NWI1YjAyNmM4YzhhYWNjOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"
