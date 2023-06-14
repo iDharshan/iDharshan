@@ -1,4 +1,4 @@
-![Github HEader 6](https://github.com/iDharshan/iDharshan/assets/91682299/20dab4a0-76da-4afb-9fc2-87887199a5bd)
+![Github Header7](https://github.com/iDharshan/iDharshan/assets/91682299/dbbc8a35-5ede-4f7e-b0f9-edf9fa817458)
 <h1 align="center">I'm Dharshan</h1>
 <h3 align="center">Aspiring ML Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJkOGE2OTgwOTU5ODcwYjdiMTg5MWI2NWI1YjAyNmM4YzhhYWNjOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"
