@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dharshanathi21@gmail.com**
 
-  🌟 As a creator and explorer, I'm constantly building and dreaming up new ideas. [Visit my Website](https://dharshan.live/) to see what I've been crafting lately!
+🌟 As a creator and explorer, I'm constantly building and dreaming up new ideas. [View my Portfolio](https://dharshan.live/) to see what I've been crafting lately!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
