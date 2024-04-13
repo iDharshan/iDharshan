@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **dharshanathi21@gmail.com**
 
+  🌟 As a creator and explorer, I'm constantly building and dreaming up new ideas. [Visit my Website](https://dharshan.live/) to see what I've been crafting lately!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/idharshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idharshan" height="30" width="40" /></a>
