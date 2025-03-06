@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/idharshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idharshan" height="30" width="40" /></a>
 <a href="https://kaggle.com/idharshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="idharshan" height="30" width="40" /></a>
-<a href="https://instagram.com/racporium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="racporium" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@dharshancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dharshancode" height="30" width="40" /></a>
 </p>
 
