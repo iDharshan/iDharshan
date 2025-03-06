@@ -1,7 +1,5 @@
-![Github Header7](https://github.com/iDharshan/iDharshan/assets/91682299/dbbc8a35-5ede-4f7e-b0f9-edf9fa817458)
-<h1 align="center">I'm Dharshan</h1>
+<h1 align="center">Hi there!👋I'm Dharshan.</h1>
 <h3 align="center">Aspiring ML Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJkOGE2OTgwOTU5ODcwYjdiMTg5MWI2NWI1YjAyNmM4YzhhYWNjOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idharshan&label=Profile%20views&color=0e75b6&style=flat" alt="idharshan" /> </p>
 
@@ -10,8 +8,6 @@
 - 💬 Ask me about **ML,Data Science**
 
 - 📫 How to reach me **dharshanathi21@gmail.com**
-
-🛠️ Hey there, fellow dreamer and doer! Dive into my digital workshop at [my website](https://dharshan.live/) and let's build something incredible together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idharshan&show_icons=true&locale=en" alt="idharshan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idharshan&" alt="idharshan" /></p>
