@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fine-tuning with LoRA, FastAPI**
 
-- 💬 Ask me about **ML,Data Science**
+- 💬 Ask me about **ML, DL, Transformers**
 
 - 📫 How to reach me **dharshanathi21@gmail.com**
 
