@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idharshan&label=Profile%20views&color=0e75b6&style=flat" alt="idharshan" /> </p>
 
-- 🌱 I’m currently learning **Fine-tuning with LoRA, FastAPI**
+- 🌱 I’m currently learning **FastAPI, LlamaIndex**
 
 - 💬 Ask me about **ML, DL, Transformers**
 
