@@ -1,5 +1,5 @@
 # Hey, I'm Dharshan 👋  
-ML Engineer (who builds stuff that *actually* works)
+AI Engineer (who builds stuff that *actually* works)
 
 ## So, what do I do?
 - Build and deploy ML models that make sense (and predictions)
